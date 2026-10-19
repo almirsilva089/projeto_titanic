@@ -123,7 +123,7 @@ Os filtros permitem explorar os indicadores e as visualizações por diferentes 
 ## Estrutura do repositório
 
 ```text
-projeto-titanic/
+projeto_titanic/
 ├── README.md
 ├── notebooks/
 │   ├── 01_setup_catalogo.ipynb
@@ -134,7 +134,7 @@ projeto-titanic/
 ├── powerbi/
 │   └── projeto_titanic.pbix
 └── images/
-    ├── imagem-de-fundo.png
+    ├── titanic_powerbi_background_v2.png
     └── dashboard-final.png
 ```
 
